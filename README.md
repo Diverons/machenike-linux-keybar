@@ -37,8 +37,7 @@ EC Firmware Revision: 9.2
 
 ## Demo
 
-[Keyboard RGB demo](demo.mp4)
-
+[Keyboard RGB demo](assets/demo.mp4)
 ## Requirements
 
 The current implementation uses `acpi_call`.
