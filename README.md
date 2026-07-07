@@ -73,6 +73,13 @@ cargo build --release
 ## Install
 
 ```bash
+git clone https://github.com/Diverons/machenike-linux-keyboard.git
+cd machenike-linux-keyboard
+sudo ./scripts/install.sh
+```
+
+
+```bash
 sudo ./scripts/install.sh
 ```
 
