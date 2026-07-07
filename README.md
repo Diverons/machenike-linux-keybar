@@ -1,3 +1,4 @@
+
 # machenike-linux
 
 Linux keyboard backlight tools for MACHENIKE laptops.
@@ -33,6 +34,10 @@ BIOS Vendor: INSYDE Corp.
 BIOS Version: 1.07.03RQLM5
 EC Firmware Revision: 9.2
 ```
+
+## Demo
+
+[Keyboard RGB demo](demo.mp4)
 
 ## Requirements
 
