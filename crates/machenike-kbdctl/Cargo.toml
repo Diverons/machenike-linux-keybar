@@ -1,0 +1,9 @@
+[package]
+name = "machenike-kbdctl"
+version = "0.1.0"
+edition = "2021"
+description = "Keyboard backlight control utility for MACHENIKE laptops"
+license = "MIT"
+repository = "https://github.com/YOUR_USERNAME/machenike-linux"
+
+[dependencies]

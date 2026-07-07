@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/machenike-kbdctl",
+    "crates/machenike-hotkeysd",
+    "crates/machenike-config"
+]

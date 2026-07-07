@@ -1,0 +1,8 @@
+[package]
+name = "machenike-config"
+version = "0.1.0"
+edition = "2021"
+description = "CLI configuration menu for MACHENIKE Linux tools"
+license = "MIT"
+
+[dependencies]
